@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{062C3396-1554-4FFE-B57F-22874B3EC679}|AdoNet\\AdoNet.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062C3396-1554-4FFE-B57F-22874B3EC679}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5317A8-A489-460D-9D7B-4F6DB341D916}|Data\\Data.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5317A8-A489-460D-9D7B-4F6DB341D916}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\business\\services\\concret\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|solutionrelative:business\\services\\concret\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\business\\services\\concret\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|solutionrelative:business\\services\\concret\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5317A8-A489-460D-9D7B-4F6DB341D916}|Data\\Data.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\data\\repositoryconcret\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5317A8-A489-460D-9D7B-4F6DB341D916}|Data\\Data.csproj|solutionrelative:data\\repositoryconcret\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062C3396-1554-4FFE-B57F-22874B3EC679}|AdoNet\\AdoNet.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\adonet\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062C3396-1554-4FFE-B57F-22874B3EC679}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062C3396-1554-4FFE-B57F-22874B3EC679}|AdoNet\\AdoNet.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\adonet\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062C3396-1554-4FFE-B57F-22874B3EC679}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|solutionrelative:business\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|solutionrelative:core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\business\\services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F013B4-AF36-406B-B77F-2B841DF6BE6E}|Business\\Business.csproj|solutionrelative:business\\services\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\core\\repositoryabstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|solutionrelative:core\\repositoryabstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\core\\repositoryabstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|solutionrelative:core\\repositoryabstract\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA9C190-92EA-46F9-9946-5B4C7BB7E52A}|Core\\Core.csproj|solutionrelative:core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5317A8-A489-460D-9D7B-4F6DB341D916}|Data\\Data.csproj|c:\\users\\murad\\onedrive\\desktop\\adonet-main\\data\\repositoryconcret\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5317A8-A489-460D-9D7B-4F6DB341D916}|Data\\Data.csproj|solutionrelative:data\\repositoryconcret\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\AdoNet\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "AdoNet\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\AdoNet\\Controller\\ProductController.cs",
+              "RelativeToolTip": "AdoNet\\Controller\\ProductController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:54:19.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\AdoNet\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AdoNet\\Controller\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\AdoNet\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "AdoNet\\Controller\\CategoryController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:54:03.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Concret\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concret\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Concret\\CategoryService.cs",
+              "RelativeToolTip": "Business\\Services\\Concret\\CategoryService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:08:48.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Concret\\ProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concret\\ProductService.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Concret\\ProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Concret\\ProductService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAABEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:08:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\AdoNet\\Program.cs",
+              "RelativeDocumentMoniker": "AdoNet\\Program.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\AdoNet\\Program.cs",
+              "RelativeToolTip": "AdoNet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:37:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Data\\DAL\\AppDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbcontext.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Data\\DAL\\AppDbcontext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbcontext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:41:29.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Data\\RepositoryConcret\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcret\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Data\\RepositoryConcret\\CategoryRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcret\\CategoryRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:44:35.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:08:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\RepositoryAbstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\RepositoryAbstract\\IProductRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstract\\IProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:34:46.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstract\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:40:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Business\\Services\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:07:27.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:06:25.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\Models\\Category.cs",
+              "RelativeToolTip": "Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:17:08.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Data\\RepositoryConcret\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcret\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Data\\RepositoryConcret\\ProductRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcret\\ProductRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:44:14.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

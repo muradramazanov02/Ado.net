@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGQ1liFq23O0Eu5rGubIYEl5A4dMggSvffm3N6/C7SsJqKloAp8/MDrW+0oVkVtEqlqTNR8FxQvvJAa0MImHxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murad\\OneDrive\\Desktop\\AdoNet-main\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\murad\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\murad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
